@@ -76,3 +76,4 @@ fi
 
 docker run -d -p 80:80 hortont/rootserver
 docker run -d -p 4281:80 hortont/hortontcom
+docker run -d -p 4282:80 hortont/wmobitcom
